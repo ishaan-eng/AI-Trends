@@ -1,3 +1,0 @@
-DBUSER-admin
-DBpassword-P@ssword
-GIT token -%$#*^%*23874387653t76689
